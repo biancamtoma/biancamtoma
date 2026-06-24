@@ -1,6 +1,6 @@
 ## Hi, Bianca here 👋
 
-- 🔭 I'm interested in Full-Stack Development, Software Development, Artificial Intelligence, Data Science, Data Analysis and Cybersecurity
+- 🔭 I'm interested in Full-Stack Development, Software Development, Artificial Intelligence, Data Science, Data Analysis and CyberSecurity
 - 🌱 I’m currently learning more about AI and ML
 - 🎓 Final-year student, pursuing a Bachelor's Degree in Information Technology applied in Business at the Bucharest University of Economic Studies
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/bianca-t-670b152a6/)
